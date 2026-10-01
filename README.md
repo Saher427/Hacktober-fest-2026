@@ -293,4 +293,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-*Built with ❤️ for Hacktoberfest 2024*
+*Built for Hacktoberfest 2026*
