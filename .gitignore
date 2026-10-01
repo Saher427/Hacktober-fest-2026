@@ -1,0 +1,39 @@
+# Environment variables — NEVER commit this file
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Cloned repos cache (large, user-specific)
+repos_cache/
+
+# ChromaDB vector store (regenerated on first run)
+chroma_db/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
